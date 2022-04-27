@@ -19,3 +19,5 @@ export {
     $host,
     $authHost
 }
+
+console.log('test');
