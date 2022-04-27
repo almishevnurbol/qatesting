@@ -20,4 +20,3 @@ export {
     $authHost
 }
 
-console.log('test');
